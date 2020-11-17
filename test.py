@@ -3,3 +3,4 @@ print("hello")
 input("..")
 print("hello")
 123
+123
